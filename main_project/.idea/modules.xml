@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernate_annotation_mapping/hibernate_annotation_mapping.iml" filepath="$PROJECT_DIR$/hibernate_annotation_mapping/hibernate_annotation_mapping.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate_xml_mapping/hibernate_xml_mapping.iml" filepath="$PROJECT_DIR$/hibernate_xml_mapping/hibernate_xml_mapping.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/web/servletController/servletController.iml" filepath="$PROJECT_DIR$/web/servletController/servletController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

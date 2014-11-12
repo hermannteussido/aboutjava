@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servletController:war">
+    <output-path>$PROJECT_DIR$/web/servletController/target</output-path>
+    <root id="archive" name="servletController.war">
+      <element id="artifact" artifact-name="servletController:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - mkyong@localhost" uuid="30977964-0314-45f6-aebe-b7fcc4e5668a">
+    <database-info product="MySQL" version="5.6.19" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.31 ( Revision: alexander.soklakov@oracle.com-20140520065950-groqzzbvxprqdmnz )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="mkyong"/>
+    <table name="stock" schema="" catalog="mkyong" type="TABLE">
+      <column name="STOCK_ID" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="STOCK_CODE" sqlType="VARCHAR" precision="10" scale="0" nullable="false" jdbcType="12"/>
+      <column name="STOCK_NAME" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="STOCK_ID"/>
+      <index name="UK_id2u76pv39wuq1txaomuw9ita" unique="true" columns="STOCK_NAME"/>
+      <index name="UK_j1y49jqhck84j782fojvrk55w" unique="true" columns="STOCK_CODE"/>
+    </table>
+  </data-source>
+</component>

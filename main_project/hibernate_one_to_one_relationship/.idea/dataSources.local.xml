@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - mkyongdb@localhost" uuid="d0557f91-a012-4c26-8d55-ebc17f61caac">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>mkyongdb.*</schema-pattern>
+      <default-schemas>mkyongdb.*</default-schemas>
+    </data-source>
+  </component>
+</project>

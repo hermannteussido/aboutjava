@@ -27,7 +27,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="C:\git\GJJ15SepJan_Balin\getJavaJob\spring-security\target/MANIFEST.MF" />
+        <element id="file-copy" path="C:\git\aboutjava\main_project\httpdevcolibri.com\spring-security\target/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="spring-security/web/Web" />
     </root>
